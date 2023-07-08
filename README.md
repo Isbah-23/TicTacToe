@@ -1,2 +1,2 @@
 # TicTacToe
-C# GUI TicTacToe Game
+C# GUI TicTacToe Game made for educational purposes.
