@@ -7,7 +7,7 @@ using namespace System::Windows::Forms;
 void MyGame(array<String^>^ args) {
     Application::EnableVisualStyles();
     Application::SetCompatibleTextRenderingDefault(false);
-    //WinformCDemo is your project name
+    //TicTacToeBlackProject is your project name
     TicTacToeBlackProject::StartPage form;
     Application::Run(% form);
 }
